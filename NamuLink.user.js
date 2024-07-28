@@ -10,8 +10,8 @@
 // @grant        unsafeWindow
 // @homepageURL  https://github.com/green1052/NamuLink
 // @supportURL   https://github.com/green1052/NamuLink/issues
-// @downloadURL
-// @updateURL
+// @downloadURL  https://raw.githubusercontent.com/green1052/NamuLink/master/NamuLink.user.js
+// @updateURL    https://raw.githubusercontent.com/green1052/NamuLink/master/NamuLink.user.js
 // ==/UserScript==
 
 (async () => {
